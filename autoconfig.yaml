@@ -8,17 +8,28 @@
 ---
 Standards:
   -
-    Title: Cats
-    Description: Cats
-    UID: 6839d672141795d0959700017e3cdec4
+    Title: 01Cats
+    Description: 01Cats
+    UID: 2132eb7c2ca30b18424ae2b2f9a36a66
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: 3eb076e5fac50dc3163ef382eb07cec3
-        Path: /Cats/Cats-and-Mice.md
+        UID: 43732b9a68aa2a90df0bf20e7fad01c8
+        Path: /01Cats/01Cats-and-Yarn.md
       -
         Type: Lesson
-        UID: c5503fba7dd52b103ebdaf04413fffb5
-        Path: /Cats/Cats-and-Yarn.md
+        UID: 3efb511d0227859bca98c2289a4b363a
+        Path: /01Cats/02Cats-and-Mice.md
+  -
+    Title: 02Dogs
+    Description: 02Dogs
+    UID: 52504f3f775d47a07713410c45b1bbe0
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 443ed6e1b65c0acbc0a611e80dd19fac
+        Path: /02Dogs/01Dogs and Bones.md
